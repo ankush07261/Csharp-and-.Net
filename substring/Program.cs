@@ -1,0 +1,1 @@
+﻿using System;using System.ComponentModel.DataAnnotations;public class Sub{	static void Main()	{		Console.WriteLine("enter the string: ");		string str = Console.ReadLine();		int len = str.Length;		  		for (int i = 0; i < len; i++)		{			for (int j = 1; j <= len-i; j++)			{							string sub = str.Substring(i, j);					Console.WriteLine(sub);							}		}	}}

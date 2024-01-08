@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\1jt21cs130\floyd\bin\Debug\net8.0\floyd.exe
+C:\Users\user\source\repos\1jt21cs130\floyd\bin\Debug\net8.0\floyd.deps.json
+C:\Users\user\source\repos\1jt21cs130\floyd\bin\Debug\net8.0\floyd.runtimeconfig.json
+C:\Users\user\source\repos\1jt21cs130\floyd\bin\Debug\net8.0\floyd.dll
+C:\Users\user\source\repos\1jt21cs130\floyd\bin\Debug\net8.0\floyd.pdb
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.AssemblyInfo.cs
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.dll
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\refint\floyd.dll
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.pdb
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\floyd.genruntimeconfig.cache
+C:\Users\user\source\repos\1jt21cs130\floyd\obj\Debug\net8.0\ref\floyd.dll
